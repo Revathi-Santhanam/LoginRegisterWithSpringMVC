@@ -30,7 +30,7 @@
 <section class="container-fluid">
   <section class="row justify-content-center">
     <section class="col-12 col-sm-6 col-md-4">
-        <form class="form-container" action="homePage/home" method="POST">
+        <form class="form-container" action="home" method="POST">
         <div class="form-group">
           <h4 class="text-center font-weight-bold"> Login </h4>
           <label>Email</label>
@@ -43,7 +43,7 @@
         </div>
         <button type="Sign in" class="btn btn-primary btn-block ">Sign in</button>
         <div class="form-footer">
-          <p> Don't have an account? <a href="registerForm/register">Sign Up</a></p>
+          <p> Don't have an account? <a href="register">Sign Up</a></p>
         </div>
         </form>
       </section>

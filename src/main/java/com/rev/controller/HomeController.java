@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
 @Controller
-@RequestMapping("/homePage")
+
 public class HomeController {
     @RequestMapping("/home")
     public String loginForm(HttpServletRequest httpServletRequest, Model model){
