@@ -1,5 +1,5 @@
 
-# LOGIN AND Register USING SPRING-MVC
+# LOGIN AND REGISTER USING SPRING-MVC
 
 This project is developed using JAVA V-17.0.8 and Soring-MVC.
 
